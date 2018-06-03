@@ -24,6 +24,9 @@ rss: rss
 # - username: jekyll2
 #   instance: example.com
 
+disqus:
+    shortname: benjaminrampe
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
