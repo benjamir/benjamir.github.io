@@ -2,7 +2,7 @@
 layout: post
 title: Increase padding of Gnome-Terminal
 category: IT
-tags: Gnome Desktop Accessibility 
+tags: Gnome Desktop Setup Configuration Accessibility 
 ---
 
 Increase padding by a fixed amount of pixels
@@ -15,3 +15,5 @@ vte-terminal {
     -VteTerminal-inner-border: 10px 10px 10px 10px;
 }
 ~~~
+
+Source: https://askubuntu.com/questions/115762/increase-padding-in-gnome-terminal
