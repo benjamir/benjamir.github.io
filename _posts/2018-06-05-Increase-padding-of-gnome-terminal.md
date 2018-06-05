@@ -19,4 +19,4 @@ vte-terminal {
 }
 ~~~
 
-Source: https://askubuntu.com/questions/115762/increase-padding-in-gnome-terminal
+Source: [askubuntu.com](https://askubuntu.com/questions/115762/increase-padding-in-gnome-terminal "increase padding in gnome-terminal")
