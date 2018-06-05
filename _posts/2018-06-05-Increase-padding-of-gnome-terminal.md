@@ -5,7 +5,10 @@ category: IT
 tags: Gnome Desktop Setup Configuration Accessibility 
 ---
 
-Increase padding by a fixed amount of pixels
+Problem: when having multiple (dark-themed) terminals side by the content I find the content hard to read
+
+Solution: increase padding (by a fixed amount of pixels)
+
 ~~~terminal
 $ cat ~/.config/gtk-3.0/gtk.css:
 VteTerminal,
