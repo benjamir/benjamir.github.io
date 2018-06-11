@@ -12,5 +12,5 @@ find . -type f ! -name '*.tar.gz' -delete
 
 or if it's a find implementation without "delete":
 ~~~terminal
-find . -type f ! -name "*.tar.gz" -exec rm -rf {} \;
+find . -type f ! -name '*.tar.gz' -exec rm -rf {} \;
 ~~~
