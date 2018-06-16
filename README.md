@@ -22,8 +22,6 @@ header_pages:
   - portfolio.md
 ```
 
---
-
 ## License
 
 The minima theme for Jekyll is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
