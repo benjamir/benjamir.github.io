@@ -5,12 +5,13 @@ category: IT
 tags: Debian Network Squid Avahi
 ---
 
-I formerly used a manually configured Squid3 as a package cache from maybe a decade ago that had to be
-migrated to a new host and I after such a long time I prefer to re-understand what I hacked together
-and luckily I also stumbled upon the **squid-deb-proxy** and **squid-deb-proxy-client**
--- I confess: I rather lazily trust that, than reread over the **loooong** list of squid parameters.
+In the past I used a manually configured Squid3 as a package cache that had to be
+migrated to a new host and I after not touching a setup for maybe decade I wanted
+to examine the squid config as a whole at first. After seeing what a time consuming endeavour
+that would have been, I luckily stumbled upon the **squid-deb-proxy** and **squid-deb-proxy-client** packages.
+And I confess: I rather lazily trust that, than reread over the **loooong** list of squid parameters.
 While I'm sceptical about infrastructure depending to much on automagical configuration (avahi-daemon) using these packages
-changed the replacement to a change within a few minutes.
+allowed the replacement within a few minutes.
 On top of that the packages usually don't interfere with any squid already in place (seperate instance and port).
 
 On the host serving the cache (here **squid**):
