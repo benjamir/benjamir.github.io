@@ -1,0 +1,54 @@
+---
+layout: post
+title: Automatically configured Squid proxy with network-wide autodiscovery for Debian package caching
+category: IT
+tags: Debian Network Squid Avahi
+---
+
+I formerly used a manually configured Squid3 as a package cache from maybe a decade ago that had to be
+migrated to a new host and I after such a long time I prefer to re-understand what I hacked together
+and luckily I also stumbled upon the **squid-deb-proxy** and **squid-deb-proxy-client**
+-- I confess: I rather lazily trust that, than reread over the **loooong** list of squid parameters.
+While I'm sceptical about infrastructure depending to much on automagical configuration (avahi-daemon) using these packages
+changed the replacement to a change within a few minutes.
+On top of that the packages usually don't interfere with any squid already in place (seperate instance and port).
+
+On the host serving the cache (here **squid**):
+~~~
+apt install squid-deb-proxy
+~~~
+Then collect and add all domains any client connects to below /etc/squid-deb-proxy/mirror-dstdomain.acl.d/
+Either in the file already present or even better in seperate files
+(e.g., 20-cran-rproject, 30-postgres-upstream, 40-grnet)
+
+On the clients it's enough to
+~~~
+apt install squid-deb-proxy-client
+~~~
+
+After adding the necessary firewall rules for squid on the server it's time for a testdrive.
+Suddenly missing **Release** files are a sign that the domain didn't make it into the ACL directory.
+If no unusual warnings and errors appear squid:/var/cache/squid-deb-proxy/ should show the typical directory tree filling up:
+~~~
+squid:/var/cache/squid-deb-proxy# tree -L 1
+.
+├── 00
+├── 01
+├── 02
+├── 03
+├── 04
+├── 05
+├── 06
+├── 07
+├── 08
+├── 09
+├── 0A
+├── 0B
+├── 0C
+├── 0D
+├── 0E
+├── 0F
+└── swap.state
+~~~
+
+Sofar worked like a charm and IMO cannot be much easier.
