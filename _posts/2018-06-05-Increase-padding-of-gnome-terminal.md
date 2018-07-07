@@ -5,7 +5,7 @@ category: IT
 tags: Gnome Desktop Setup Configuration Accessibility 
 ---
 
-Problem: when having multiple (dark-themed) terminals side by the content I find the content hard to read
+Problem: when having multiple (dark-themed) terminals side by side I find the content hard to read
 
 Solution: increase padding (by a fixed amount of pixels)
 
