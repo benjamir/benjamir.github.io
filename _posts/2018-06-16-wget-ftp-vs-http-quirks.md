@@ -7,7 +7,7 @@ tags: Linux Network CLI quirks
 
 Reminder to myself: wget supports globbing with FTP, but wants "acceptance" and "rejection"-lists for HTTP(S).
 Excerpt from the wget(1) man page: 
-~~~
+~~~terminal
 -A acclist --accept acclist
 -R rejlist --reject rejlist
     Specify comma-separated lists of file name suffixes or patterns to
