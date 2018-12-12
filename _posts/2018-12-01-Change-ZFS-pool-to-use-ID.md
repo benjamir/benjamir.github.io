@@ -16,7 +16,7 @@ A pool affected by such an event goes into **state: SUSPENDED** instead of **ONL
 if you're unable to fix the setup completly. If you're so desperate you'll find several *gists* on your own. 
 
 To mitigate the issue, the pool can be changed to use the disk identified by ID:
-~~~
+~~~terminal
 zpool export pool
 zpool import -d /dev/disk/by-id pool
 ~~~
