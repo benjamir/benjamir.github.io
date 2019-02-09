@@ -4,14 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Hello visitor, my name is Benjamin. I'm a father of two, working as a system administrator for the chair of computational linguistics in Jena, Germany since 2006.
+Hello visitor, my name is Benjamin.
+I'm a father of two, currentlyy working as a system administrator for the chair of computational linguistics in Jena, Germany.
 
-When I'm not at playgrounds with the kids, or taking care of a compute and virtualization cluster, I enjoy meeting friends for Doppelkopf, board games (Pandemic, Dominion, etc.) or preferably outdoors: Mölkky.
+When I'm not at playgrounds with the kids, or taking care of a compute and virtualization cluster, I enjoy meeting friends for card- and board games, or Mölkky outdoors.
+If time permits I try to revive my guitar playing skills, or raise whatever seeds (avocado, pepper bell, potatos, fenugreek, ...) comes my way out of curiosity.
 
-For recreational purpose ***without*** others, I try to improve my guitar playing skills -- acoustic, electric and bass guitar.
-Coming from a finger-style background I set myself the challenge to overcome my struggle with a pick the coming years; and keep advancing my understanding of music theory in baby steps. (If you want to start a band of beginners in Jena, please mail me so that I can remove "without others" here!).
+Have a question? Feel free to send a polite e-mail to mail@benjaminrampe.de
 
-Occasionally I dabble around with windowsill gardening by randomly trying to grow any seeds or seedlings I coincidentally get my hands on. 
-Inside my office you might find pitiful plants, because I sometimes adopt orphaned plants -- no matter their aesthetics -- and try to revive them.
-
-If want to get in contact with me you can send me an polite e-mail to mail@benjaminrampe.de
+If you're into GPG you might be intereseted in:
+pub   rsa4096 2018-05-27 [SCA] [expires: 2019-06-21]
+      0E5A D406 C5EE 468D DB85  0807 E9B2 25C8 BD21 CD73
+uid           [ultimate] Benjamin Redling <mail@benjaminrampe.de>
+sub   rsa4096 2018-05-27 [E] [expires: 2019-06-21]
