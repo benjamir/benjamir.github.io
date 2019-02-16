@@ -13,7 +13,7 @@ If time permits I try to revive my guitar playing skills, or raise whatever seed
 Have a question? Feel free to send a polite e-mail to mail@benjaminrampe.de
 
 If you're into GPG you might be intereseted in:
-~~~
+~~~terminal
 pub   rsa4096 2018-05-27 [SCA] [expires: 2019-06-21]
       0E5A D406 C5EE 468D DB85  0807 E9B2 25C8 BD21 CD73
 uid           [ultimate] Benjamin Redling <mail@benjaminrampe.de>
