@@ -19,3 +19,18 @@ pub   rsa4096 2018-05-27 [SCA] [expires: 2019-06-21]
 uid           [ultimate] Benjamin Redling <mail@benjaminrampe.de>
 sub   rsa4096 2018-05-27 [E] [expires: 2019-06-21]
 ~~~
+
+There are articles and postings by another "Benjamin Rampe"s (my birth name) and another "Benjamin Redling" (my current name). 
+Both are or were working for Mircosoft; I'm not related to them.
+
+Regular posts probably really written by me are in the following mailing lists:
+- ansible-project
+- checkmk-de
+- checkmk-en
+- ganeti
+- slurm-users (fka. slurm-dev)
+
+and rarly, or only in former times:
+- backuppc
+- borgbackup
+- proxmox
