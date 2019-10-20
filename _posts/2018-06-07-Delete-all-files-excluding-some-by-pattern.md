@@ -2,6 +2,7 @@
 layout: post
 title: Delete all files excluding some by pattern
 category: IT
+published: false
 tags: Linux Storage CLI
 ---
 
