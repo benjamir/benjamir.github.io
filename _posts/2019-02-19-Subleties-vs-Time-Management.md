@@ -2,6 +2,7 @@
 layout: post
 title: Subleties vs Time Management
 category: IT
+published: false
 tags: Ansible YAML subleties
 ---
 
