@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 Hello visitor, my name is Benjamin.
-I'm a father of two, currentlyy working as a system administrator for the chair of computational linguistics in Jena, Germany.
+I'm a father of two, working as a system administrator for the chair of computational linguistics in Jena, Germany.
 
-When I'm not at playgrounds with the kids, or taking care of a compute and virtualization cluster, I enjoy meeting friends for card- and board games, or Mölkky outdoors.
-If time permits I try to revive my guitar playing skills, or raise whatever seeds (avocado, pepper bell, potatos, fenugreek, ...) comes my way out of curiosity.
+When I'm not at playgrounds with my kids, or taking care of a compute and virtualization cluster, I enjoy meeting friends for card- and board games, or Mölkky outdoors.
+If time permits I try to revive my guitar playing skills, or raise whatever seeds come my way.
 
 Have a question? Feel free to send a polite e-mail to mail@benjaminrampe.de
 
@@ -20,17 +20,17 @@ uid           [ultimate] Benjamin Redling <mail@benjaminrampe.de>
 sub   rsa4096 2018-05-27 [E] [expires: 2019-06-21]
 ~~~
 
-There are articles and postings by another "Benjamin Rampe"s (my birth name) and another "Benjamin Redling" (my current name). 
-Both are or were working for Mircosoft; I'm not related to them.
+There are IT-related articles and postings by another "Benjamin Rampe" (my birth name) and another "Benjamin Redling" (my current name). 
+Unlike me both are or were working for Microsoft.
 
-Regular posts probably really written by me are in the following mailing lists:
+Occasional posts written by me are in the following mailing lists:
 - ansible-project
 - checkmk-de
 - checkmk-en
 - ganeti
 - slurm-users (fka. slurm-dev)
 
-and rarly, or only in former times:
+And in former times:
 - backuppc
 - borgbackup
 - proxmox
