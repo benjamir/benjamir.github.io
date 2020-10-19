@@ -13,25 +13,20 @@ If time permits I try to revive my guitar playing skills, or raise whatever seed
 
 Have a question? Feel free to send a polite e-mail to mail@benjaminrampe.de
 
-If you're into GPG you might be intereseted in:
-~~~terminal
-pub   rsa4096 2019-10-20 [SC]
-      85BCD571DE2495237F456B0FD01A3A802173B846
-uid                      Benjamin Redling <mail@benjaminrampe.de>
-sub   rsa4096 2019-10-20 [E]
-~~~
+~~If you're into GPG you might be intereseted in:~~ (I stopped maintaining a GPG key, because nobody I communicate with via a secure channel is using it anymore)
 
 There are IT-related articles and postings by another "Benjamin Rampe" (my birth name) and another "Benjamin Redling" (my current name). 
 Unlike me both are or were working for Microsoft.
 
 Occasional posts written by me are in the following mailing lists:
 - ansible-project
-- checkmk-de
-- checkmk-en
 - ganeti
 - slurm-users (fka. slurm-dev)
+- proxmox (after a very long break from version 2.x to 6.0, I'm interested again)
+- gluster-users
 
 And in former times:
 - backuppc
 - borgbackup
-- proxmox
+- checkmk-de (they changed to a forum -- I prefer old school mail; since then I'm only consuming via their read-only mail gateway)
+- checkmk-en (they changed to a forum -- I prefer old school mail; since then I'm only consuming via their read-only mail gateway)
