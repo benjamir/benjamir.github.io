@@ -16,7 +16,7 @@ Have a question? Feel free to send a polite e-mail to mail@benjaminrampe.de
 ~~If you're into GPG you might be intereseted in:~~ (I stopped maintaining a GPG key, because nobody I communicate with via a secure channel is using it anymore)
 
 There are IT-related articles and postings by another "Benjamin Rampe" (my birth name) and another "Benjamin Redling" (my current name). 
-Unlike me both are or were working for Microsoft.
+Unlike me, both are or were working for Microsoft.
 
 Occasional posts written by me are in the following mailing lists:
 - ansible-project
