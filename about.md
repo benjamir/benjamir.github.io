@@ -16,12 +16,13 @@ Have a question? Feel free to send a polite e-mail to mail@benjaminrampe.de
 
 Occasional posts written by me are in the following mailing lists:
 - ansible-project
-- checkmk-de
-- checkmk-en
 - ganeti
 - slurm-users (fka. slurm-dev)
-- proxmox
+- proxmox (after a very long break from version 2.x to 6.0, I'm interested again)
+- gluster-users
 
 And in former times:
 - backuppc
 - borgbackup
+- checkmk-de (they changed to a visually overloaded forum. I prefer old school mail; since then I'm only consuming via their read-only mail gateway and currently do not engage in the community)
+- checkmk-en (s. check-mk-de comment above)
