@@ -6,23 +6,13 @@ permalink: /about/
 
 Hello visitor, my name is Benjamin.
 
-I'm a father of two, working as a system administrator for the chair of computational linguistics in Jena, Germany.
-
-When I'm not at playgrounds with my kids, or taking care of a compute and virtualization cluster, I enjoy meeting friends for card- and board games, or Mölkky outdoors.
-If time permits I try to revive my guitar playing skills, or raise whatever seeds come my way.
+I'm an IT system administrator. I try to write down notes important to me, but honestly often fail to publish most of my personal notebook.
+I prefer fossil SCM over git, for personal notetaking and as kind of knowledge base.
 
 Have a question? Feel free to send a polite e-mail to mail@benjaminrampe.de
 
-If you're into GPG you might be intereseted in:
-~~~terminal
-pub   rsa4096 2019-10-20 [SC]
-      85BCD571DE2495237F456B0FD01A3A802173B846
-uid                      Benjamin Redling <mail@benjaminrampe.de>
-sub   rsa4096 2019-10-20 [E]
-~~~
-
-There are IT-related articles and postings by another "Benjamin Rampe" (my birth name) and another "Benjamin Redling" (my current name). 
-Unlike me both are or were working for Microsoft.
+~~If you're into GPG you might be intereseted in: ...~~
+(I stopped using GPG for the time being. I used it maybe a handful of times within a decade and in the meantime it doesn't seem to be worth the troubles. Friends use other secure channels, the general population doesn't care about signing emails, so why maintain something just for the sake of it.)
 
 Occasional posts written by me are in the following mailing lists:
 - ansible-project
@@ -30,8 +20,8 @@ Occasional posts written by me are in the following mailing lists:
 - checkmk-en
 - ganeti
 - slurm-users (fka. slurm-dev)
+- proxmox
 
 And in former times:
 - backuppc
 - borgbackup
-- proxmox
